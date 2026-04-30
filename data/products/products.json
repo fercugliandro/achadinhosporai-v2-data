@@ -1,0 +1,80 @@
+[
+  {
+    "id": "1",
+    "name": "Fone de Ouvido Bluetooth S10",
+    "slug": "fone-bluetooth-s10",
+    "price": 89.90,
+    "originalPrice": 149.90,
+    "image": "https://m.media-amazon.com/images/I/51B3T8X1ZJL._AC_SL1000_.jpg",
+    "amazonUrl": "https://amazon.com.br/dp/B08XYZ123",
+    "category": "tech",
+    "featured": true,
+    "bestSeller": true,
+    "description": "Fone de ouvido sem fio com cancelamento de ruído e bateria de 20h"
+  },
+  {
+    "id": "2",
+    "name": "Smartwatch Fitness Tracker",
+    "slug": "smartwatch-fitness-tracker",
+    "price": 199.90,
+    "originalPrice": 349.90,
+    "image": "https://m.media-amazon.com/images/I/61xM7aXrR5L._AC_SL1500_.jpg",
+    "amazonUrl": "https://amazon.com.br/dp/B09ABC456",
+    "category": "fitness",
+    "featured": true,
+    "bestSeller": true,
+    "description": "Monitor de batimentos, GPS, resistência à água e 7 dias de bateria"
+  },
+  {
+    "id": "3",
+    "name": "Cafeteira Elétrica Programável",
+    "slug": "cafeteira-eletrica-programavel",
+    "price": 159.90,
+    "originalPrice": 249.90,
+    "image": "https://m.media-amazon.com/images/I/61cXKr5L6hL._AC_SL1500_.jpg",
+    "amazonUrl": "https://amazon.com.br/dp/B07DEF789",
+    "category": "home",
+    "featured": false,
+    "bestSeller": true,
+    "description": "Cafeteira 1.5L com timer e painel digital"
+  },
+  {
+    "id": "4",
+    "name": "Mouse Gamer RGB 7200DPI",
+    "slug": "mouse-gamer-rgb-7200dpi",
+    "price": 79.90,
+    "originalPrice": 129.90,
+    "image": "https://m.media-amazon.com/images/I/61SKpHv2QmL._AC_SL1500_.jpg",
+    "amazonUrl": "https://amazon.com.br/dp/B08GHI012",
+    "category": "gaming",
+    "featured": false,
+    "bestSeller": false,
+    "description": "Mouse gamer com 7 botões programáveis e iluminação RGB"
+  },
+  {
+    "id": "5",
+    "name": "Secador de Cabelo Profissional",
+    "slug": "secador-cabelo-profissional",
+    "price": 129.90,
+    "originalPrice": 219.90,
+    "image": "https://m.media-amazon.com/images/I/61xM7aXrR5L._AC_SL1500_.jpg",
+    "amazonUrl": "https://amazon.com.br/dp/B09JKL345",
+    "category": "beauty",
+    "featured": false,
+    "bestSeller": false,
+    "description": "Secador 2200W com ionizador e 3 velocidades"
+  },
+  {
+    "id": "6",
+    "name": "Teclado Mecânico Switch Red",
+    "slug": "teclado-mecanico-switch-red",
+    "price": 249.90,
+    "originalPrice": 399.90,
+    "image": "https://m.media-amazon.com/images/I/71KBF3+Q6+L._AC_SL1500_.jpg",
+    "amazonUrl": "https://amazon.com.br/dp/B07MNO678",
+    "category": "tech",
+    "featured": false,
+    "bestSeller": false,
+    "description": "Teclado mecânico com retroiluminação RGB e teclas anti-ghosting"
+  }
+]
